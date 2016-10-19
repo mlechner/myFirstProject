@@ -1,4 +1,0 @@
-This is a new text file
-I have edited his file
-I edited this file again, while it was in the master branch
-Now mlechner edited this file to simulate a new feature
